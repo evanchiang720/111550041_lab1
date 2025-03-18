@@ -21,11 +21,11 @@
 | 類別 | 範例圖片 |
 |------|---------|
 | **前衛造型服裝** | <img src="https://image1.gamme.com.tw/news2/2017/49/34/pJyRo6ael6OZrqQ.jpg" width="150"> |
-| **商務工作服裝** | <img src="images/business.jpg" width="150"> |
-| **運動體育服裝** | <img src="images/sports.jpg" width="150"> |
-| **居家休閒服裝** | <img src="images/casual.jpg" width="150"> |
-| **宴會婚禮服裝** | <img src="images/formal.jpg" width="150"> |
-| **傳統古典服裝** | <img src="https://github.com/evanchiang720/111550041_lab1/blob/main/Images/%E5%82%B3%E7%B5%B1%E5%8F%A4%E5%85%B8%E6%9C%8D%E8%A3%9D/%E5%82%B3%E7%B5%B1%E6%9C%8D%E8%A3%9D_443.jpg" width="150"> |
+| **商務工作服裝** | <img src="https://www.gentlemansgazette.com/wp-content/uploads/2016/09/Business-Casual-Mens-by-hogtownrake-Cardigan-Madder-inspired-tie-that-extends-beyond-the-waistband-with-suspenders-and-vintage-watch-768x1147.jpg" width="150"> |
+| **運動體育服裝** | <img src="https://underarmour.scene7.com/is/image/Underarmour/V5-6000369-001_FC?rp=standard-0pad|pdpZoomDesktop&scl=0.72&fmt=jpg&qlt=85&resMode=sharp2&cache=on,on&bgc=f0f0f0&wid=1836&hei=1950&size=1500,1500" width="150"> |
+| **居家休閒服裝** | <img src="https://intl.rakuten-static.com/b/tw/assets/event/label/2402/img_item_feb_499%20free%20shipping_2@2x.png" width="150"> |
+| **宴會婚禮服裝** | <img src="https://g-search1.alicdn.com/img/bao/uploaded/i4/i1/2678078532/O1CN0154Bp2X2CtiE5ZV0wa_!!0-item_pic.jpg_360x360q90.jpg_.webp" width="150"> |
+| **傳統古典服裝** | <img src="https://m1.aboluowang.com/uploadfile/2019/0222/20190222045852245.webp" width="150"> |
 
 ### 4. 爬蟲流程與資料處理
 **爬蟲原理**：
