@@ -20,7 +20,7 @@
 資料共分為六個服裝類別：
 | 類別 | 範例圖片 |
 |------|---------|
-| **前衛造型服裝** | <img src="images/avant-garde.jpg" width="150"> |
+| **前衛造型服裝** | <img src="https://image1.gamme.com.tw/news2/2017/49/34/pJyRo6ael6OZrqQ.jpg" width="150"> |
 | **商務工作服裝** | <img src="images/business.jpg" width="150"> |
 | **運動體育服裝** | <img src="images/sports.jpg" width="150"> |
 | **居家休閒服裝** | <img src="images/casual.jpg" width="150"> |
