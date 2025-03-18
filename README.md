@@ -18,15 +18,32 @@
 
 ### 3. 圖片類別
 資料共分為六個服裝類別：
-| 類別               | 範例圖片                                                                 |
-|--------------------|--------------------------------------------------------------------------|
-| **前衛造型服裝**     | ![前衛造型服裝](https://image1.gamme.com.tw/news2/2017/49/34/pJyRo6ael6OZrqQ.jpg) |
-| **商務工作服裝**     | ![商務工作服裝](https://www.gentlemansgazette.com/wp-content/uploads/2016/09/Business-Casual-Mens-by-hogtownrake-Cardigan-Madder-inspired-tie-that-extends-beyond-the-waistband-with-suspenders-and-vintage-watch-768x1147.jpg) |
-| **運動體育服裝**     | ![運動體育服裝](https://cdna.lystit.com/520/650/n/photos/underarmour/77c7016a/under-armour-black-Debardeur-En-Mesh-Imprime-Zone-Pro-Pour-Homme-Anthracite-Stream.jpeg) |
-| **居家休閒服裝**     | ![居家休閒服裝](https://s.yimg.com/ob/image/624d3be2-6e45-4d36-b4a8-5dff9d72e939.jpg) |
-| **宴會婚禮服裝**     | ![宴會婚禮服裝](https://g-search1.alicdn.com/img/bao/uploaded/i4/i1/2678078532/O1CN0154Bp2X2CtiE5ZV0wa_!!0-item_pic.jpg_360x360q90.jpg_.webp) |
-| **傳統古典服裝**     | ![傳統古典服裝](https://m1.aboluowang.com/uploadfile/2019/0222/20190222045852245.webp) |
-
+<table border="1">
+  <tr style="background-color: red;">
+    <th>類別</th>
+    <th>前衛造型服裝</th>
+    <th>商務工作服裝</th>
+    <th>運動體育服裝</th>
+  </tr>
+  <tr style="background-color: grey;">
+    <td>範例圖片</td>
+    <td><img src="https://image1.gamme.com.tw/news2/2017/49/34/pJyRo6ael6OZrqQ.jpg" width="150"></td>
+    <td><img src="https://www.gentlemansgazette.com/wp-content/uploads/2016/09/Business-Casual-Mens-by-hogtownrake-Cardigan-Madder-inspired-tie-that-extends-beyond-the-waistband-with-suspenders-and-vintage-watch-768x1147.jpg" width="150"></td>
+    <td><img src="https://i8.amplience.net/t/jpl/jd_product_list?plu=jd_6000369-001_plc&qlt=92&w=726&h=926&v=1&fmt=auto" width="150"></td>
+  </tr>
+  <tr style="background-color: white;">
+    <th>類別</th>
+    <th>居家休閒服裝</th>
+    <th>宴會婚禮服裝</th>
+    <th>傳統古典服裝</th>
+  </tr>
+  <tr style="background-color: grey;">
+    <td>範例圖片</td>
+    <td><img src="https://s.yimg.com/ob/image/624d3be2-6e45-4d36-b4a8-5dff9d72e939.jpg" width="150"></td>
+    <td><img src="https://g-search1.alicdn.com/img/bao/uploaded/i4/i1/2678078532/O1CN0154Bp2X2CtiE5ZV0wa_!!0-item_pic.jpg_360x360q90.jpg_.webp" width="150"></td>
+    <td><img src="https://m1.aboluowang.com/uploadfile/2019/0222/20190222045852245.webp" width="150"></td>
+  </tr>
+</table>
 
 ### 4. 爬蟲流程與資料處理
 **爬蟲原理**：
