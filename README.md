@@ -25,7 +25,7 @@
 | **運動體育服裝** | <img src="images/sports.jpg" width="150"> |
 | **居家休閒服裝** | <img src="images/casual.jpg" width="150"> |
 | **宴會婚禮服裝** | <img src="images/formal.jpg" width="150"> |
-| **傳統古典服裝** | <img src="images/傳統服裝_443.jpg" width="150"> |
+| **傳統古典服裝** | <img src="images/傳統古典服裝/傳統服裝_443.jpg" width="150"> |
 
 ### 4. 爬蟲流程與資料處理
 **爬蟲原理**：
