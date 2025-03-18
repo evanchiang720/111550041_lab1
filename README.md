@@ -18,12 +18,14 @@
 
 ### 3. 圖片類別
 資料共分為六個服裝類別：
-1. 前衛造型服裝
-2. 商務工作服裝
-3. 運動體育服裝
-4. 居家休閒服裝
-5. 宴會婚禮服裝
-6. 傳統古典服裝
+| 類別 | 示例圖片 |
+|------|---------|
+| **前衛造型服裝** | <img src="images/avant-garde.jpg" width="150"> |
+| **商務工作服裝** | <img src="images/business.jpg" width="150"> |
+| **運動體育服裝** | <img src="images/sports.jpg" width="150"> |
+| **居家休閒服裝** | <img src="images/casual.jpg" width="150"> |
+| **宴會婚禮服裝** | <img src="images/formal.jpg" width="150"> |
+| **傳統古典服裝** | <img src="images/traditional.jpg" width="150"> |
 
 ### 4. 爬蟲流程與資料處理
 **爬蟲原理**：
