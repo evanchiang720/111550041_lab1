@@ -18,7 +18,7 @@
 
 ### 3. 圖片類別
 資料共分為六個服裝類別：
-| 類別 | 示例圖片 |
+| 類別 | 範例圖片 |
 |------|---------|
 | **前衛造型服裝** | <img src="images/avant-garde.jpg" width="150"> |
 | **商務工作服裝** | <img src="images/business.jpg" width="150"> |
